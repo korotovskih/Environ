@@ -1,0 +1,7 @@
+LIBRARY "Environ"
+
+EXPORTS
+GetClassObject
+DestroyObject
+GetClassNames
+SetPlatformCapabilities
